@@ -18,4 +18,4 @@ N/A
 Used class material for reference, as well as searches on: [Google](https://google.com)
 
 ## Links
-[Video Walkthrough]()
+[Video Walkthrough](https://watch.screencastify.com/v/58Wtpcc2GMN8Qk4O8nTM)
